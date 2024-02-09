@@ -1,0 +1,5 @@
+# Project exclude paths
+/Lazy-Fetching/target/
+/Many-To-Many/target/
+/One-To-Many/target/
+/One-To-One/target/
