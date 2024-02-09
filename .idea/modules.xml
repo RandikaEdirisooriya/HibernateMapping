@@ -3,11 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Eager-Fitcher.iml" filepath="$PROJECT_DIR$/Eager-Fitcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HQL.iml" filepath="$PROJECT_DIR$/HQL.iml" />
       <module fileurl="file://$PROJECT_DIR$/HibernateMapping.iml" filepath="$PROJECT_DIR$/HibernateMapping.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lazy-Fetching.iml" filepath="$PROJECT_DIR$/Lazy-Fetching.iml" />
       <module fileurl="file://$PROJECT_DIR$/Many-To-Many.iml" filepath="$PROJECT_DIR$/Many-To-Many.iml" />
       <module fileurl="file://$PROJECT_DIR$/One-To-Many.iml" filepath="$PROJECT_DIR$/One-To-Many.iml" />
       <module fileurl="file://$PROJECT_DIR$/One-To-One.iml" filepath="$PROJECT_DIR$/One-To-One.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SQL.iml" filepath="$PROJECT_DIR$/SQL.iml" />
     </modules>
   </component>
 </project>
