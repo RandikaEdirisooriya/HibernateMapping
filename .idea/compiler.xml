@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="One-To-Many" />
+        <module name="Eager-Fitcher" />
         <module name="One-To-One" />
         <module name="Many-To-Many" />
         <module name="Lazy-Fetching" />

@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/One-To-Many/pom.xml" />
         <option value="$PROJECT_DIR$/Many-To-Many/pom.xml" />
         <option value="$PROJECT_DIR$/Lazy-Fetching/pom.xml" />
+        <option value="$PROJECT_DIR$/Eager-Fitcher/pom.xml" />
       </list>
     </option>
     <option name="workspaceImportForciblyTurnedOn" value="true" />
